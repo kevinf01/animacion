@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: aqua;
+    background-image: url(fondo.jpg);
+    color: #fff;
+}
+
+img{
+    width: 360px;
+    height: 215px;
+}
+
+table{
+    color: aliceblue;
+    text-align: center;
+    border-radius: 6px;
+    margin: 0 auto;
+    padding: 10px 10px;
+    border-color: brown;
+    
+}
+
+table:hover{
+    color: aliceblue;
+}
+
+.encabezado{
+    text-align: center;
+    color: #fff;
+}
+
+.encabezado hr{
+    text-align: center;
+    margin: 0 auto;
+    width: 40%;
+}
+
+table strong{
+    color: red;
+}
+
+table del{
+    color: red;
+}
